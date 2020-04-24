@@ -1,0 +1,14 @@
+C:\Users\54281\OneDrive\바탕 화면\0927 조별\0927 조별\obj\Debug\0927 조별.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\0927 조별\0927 조별\obj\Debug\0927 조별.csproj.CoreCompileInputs.cache
+C:\Users\54281\OneDrive\바탕 화면\0927 조별\0927 조별\bin\Debug\0927 조별.exe.config
+C:\Users\54281\OneDrive\바탕 화면\0927 조별\0927 조별\bin\Debug\0927 조별.exe
+C:\Users\54281\OneDrive\바탕 화면\0927 조별\0927 조별\bin\Debug\0927 조별.pdb
+C:\Users\54281\OneDrive\바탕 화면\0927 조별\0927 조별\obj\Debug\0927 조별.exe
+C:\Users\54281\OneDrive\바탕 화면\0927 조별\0927 조별\obj\Debug\0927 조별.pdb
+C:\Users\user\Desktop\비트고급30기\4.C#\0927 조별\0927 조별\bin\Debug\0927 조별.exe.config
+C:\Users\user\Desktop\비트고급30기\4.C#\0927 조별\0927 조별\bin\Debug\0927 조별.exe
+C:\Users\user\Desktop\비트고급30기\4.C#\0927 조별\0927 조별\bin\Debug\0927 조별.pdb
+C:\Users\user\Desktop\비트고급30기\4.C#\0927 조별\0927 조별\obj\Debug\0927 조별.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비트고급30기\4.C#\0927 조별\0927 조별\obj\Debug\0927 조별.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비트고급30기\4.C#\0927 조별\0927 조별\obj\Debug\0927 조별.exe
+C:\Users\user\Desktop\비트고급30기\4.C#\0927 조별\0927 조별\obj\Debug\0927 조별.pdb
